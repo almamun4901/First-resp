@@ -1,4 +1,8 @@
 h1{
-    color: aliceblue;
+    color: rgb(28, 136, 230);
     text-align: center;
+}
+*{
+    margin: auto;
+    padding: 0%;
 }
